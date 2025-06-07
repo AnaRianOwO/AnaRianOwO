@@ -4,7 +4,7 @@
 -  I’m looking to collaborate on any projects that might need help in Bash, HTML, Python or C.
 -  You can contact me by email in rianoana.901@gmail.com
 
-- Currently I'm learning machine learning, data analitics and IA in Python, if you see something you can help me out I will really appreciate it
+- Currently I'm learning Bash an C, I really hope to get something done uwu.
 
 <!---
 AnaRianOwO/AnaRianOwO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
